@@ -27,7 +27,7 @@ layers:
   - O
   - P
   - {t: '[', s: '{'}
-  - $$mdi:apple-keyboard-caps$$
+  - $$mdi:apple-keyboard-control$$
   - A
   - S
   - D
@@ -55,7 +55,7 @@ layers:
   - .
   - $$mdi:volume-off$$
   - $$mdi:apple-keyboard-control$$
-  - $$mdi:apple-keyboard-command$$
+  - RIGHT GUI
   - $$mdi:apple-keyboard-option$$
   - LAYER1
   - $$mdi:keyboard-space$$
